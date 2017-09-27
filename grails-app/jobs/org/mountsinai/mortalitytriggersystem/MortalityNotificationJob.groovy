@@ -1,7 +1,7 @@
 package org.mountsinai.mortalitytriggersystem
 
 class MortalityNotificationJob {
-
+// added comment
     def mortalityTriggerService;
 
     static triggers = {
