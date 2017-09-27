@@ -4,7 +4,7 @@ import static grails.util.Environment.PRODUCTION
 import static grails.util.Environment.getCurrentEnvironment
 
 class AuthController {
-
+//added comment
     static defaultAction = "login"
 
     def login() {
