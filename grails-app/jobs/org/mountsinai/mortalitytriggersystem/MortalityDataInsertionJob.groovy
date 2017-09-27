@@ -1,7 +1,7 @@
 package org.mountsinai.mortalitytriggersystem
 
 class MortalityDataInsertionJob {
-
+//This job will insert the mortality data in to DB
 	def mortalityTriggerService;
 
 	static triggers = {
